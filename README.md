@@ -25,6 +25,12 @@ At Con Edison, there were many times where they wanted to send drawings to the c
   * The drawings will be converted and stored on the server.
   * An email will be sent to the user with a link to the files.
   * The files will be deleted after 7 days as specified by the admin.
+  
+## Gallery
+
+How it Works!    
+:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/dwgpdf.png)](https://vimeo.com/458374548)
 
 ## Skills Used
   
