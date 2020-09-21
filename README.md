@@ -30,7 +30,7 @@ At Con Edison, there were many times where they wanted to send drawings to the c
 
 How it Works!    
 :-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/dwgpdf.png)](https://vimeo.com/458374548)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/DWG-PDF-Thumbnail.png)](https://vimeo.com/458374548)
 
 ## Skills Used
   
